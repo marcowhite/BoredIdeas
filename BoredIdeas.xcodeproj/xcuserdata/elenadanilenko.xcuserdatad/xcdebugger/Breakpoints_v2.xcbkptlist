@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0DD26D24-AEBB-413F-877B-9CF3291CB9E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7DF9CF4-4CD7-4AD2-8427-07FC5A675D8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/ActivityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "setType()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B384D12-313B-4AEC-861E-093ADF1D1D40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/SavedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC907233-F871-4ED4-8231-2781EA2D12F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/SavedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B739AC56-1039-4D28-97C0-B94456895BBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/SavedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B739AC56-1039-4D28-97C0-B94456895BBC - 5946312683f73d3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.SavedController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/SavedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "B739AC56-1039-4D28-97C0-B94456895BBC - 5946312683f73ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.SavedController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/SavedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D5E97B1-353E-43D0-AA20-A5A3B8CED847"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/SavedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D5E97B1-353E-43D0-AA20-A5A3B8CED847 - 5946312683f73ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.SavedController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/SavedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "3D5E97B1-353E-43D0-AA20-A5A3B8CED847 - bea566fb89ab9292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.SavedController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/SavedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCFEF6BB-423A-4FB8-B008-C4AD5EACAE18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/SavedController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCFEF6BB-423A-4FB8-B008-C4AD5EACAE18 - 5ceff790b0997905"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.SavedController.viewDidLoad() -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/SavedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  uuid = "DCFEF6BB-423A-4FB8-B008-C4AD5EACAE18 - 5ceff790b0997943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.SavedController.viewDidLoad() -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/SavedController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7798BCE-65AD-4710-A35A-B4F6F4A917D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/ActivityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "saveButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7798BCE-65AD-4710-A35A-B4F6F4A917D1 - fc4caef35973afe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "D7798BCE-65AD-4710-A35A-B4F6F4A917D1 - fc4caef35973af82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65E111E7-F7E7-4A1E-B641-7BA903471583"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/ActivityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "saveButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65E111E7-F7E7-4A1E-B641-7BA903471583 - 2aa23f1ba7cc4221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "919">
+               </Location>
+               <Location
+                  uuid = "65E111E7-F7E7-4A1E-B641-7BA903471583 - 2aa23f1ba7cc4221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "930">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14CC35F9-C0F0-417D-9D06-6C2432DD979A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/ActivityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "saveButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14CC35F9-C0F0-417D-9D06-6C2432DD979A - 2aa23f1ba7cc4108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2464">
+               </Location>
+               <Location
+                  uuid = "14CC35F9-C0F0-417D-9D06-6C2432DD979A - 2aa23f1ba7cc4108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A335433-6566-492F-96FF-B10A3060463C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoredIdeas/ActivityController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "saveButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A335433-6566-492F-96FF-B10A3060463C - fc4caef35973ac11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "8A335433-6566-492F-96FF-B10A3060463C - fc4caef35973ac11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoredIdeas.ActivityController.saveButtonClicked(__C.UIButton) -&gt; ()"
+                  moduleName = "BoredIdeas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenadanilenko/Desktop/BoredIdeas/BoredIdeas/ActivityController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "247">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
